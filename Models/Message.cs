@@ -7,11 +7,13 @@
     {
         Text,
         Join,
+        Leave,
         KeyExchange,
         PeerList,
         Ban,
         Unban,
         Ping,
+        Pong
     }
 
     /// <summary>
