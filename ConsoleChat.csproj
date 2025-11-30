@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Cryptography\" />
+    <Folder Include="Network\" />
+  </ItemGroup>
+
 </Project>
